@@ -13,4 +13,3 @@ ANSWER: What I normally do when I have a problem is write it down on paper and w
 -
 What are my ethical responsibilities to the end user and the organization?
 ANSWER: To the end user I have a responsibility to make sure that their personal information is handled with security in mind. Also design in a way that makes the software accessible to all users. And to be transparent about my designs. To the organization my responsibilities are to create clean and maintainable code. Give credit and never plagiarize from someone elses code. Also to protect intellectual property. Lastly to prioritize ethical decisions when it comes to designing software.
-
